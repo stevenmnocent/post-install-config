@@ -34,6 +34,7 @@ This tutorial provides a comprehensive guide to the post-installation configurat
 - Set up four help topics that enable customers to easily narrow down their support issues.
 
 <h2>Configuration Steps</h2>
+<p align="left"> Part 1: <a href="https://github.com/stevenmnocent/osticket-prereqs">osTicket: Prerequisites and Installation</a></p>
 
 <p>
 <p align="center"> 
