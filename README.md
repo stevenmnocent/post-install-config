@@ -222,13 +222,13 @@ Step 17: Add Agent 3 to the Level II Support team and click on "Create."
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_09ea5aaa4fd144c7996262fbb0a404b0~mv2.png" height="50%" width="50%" alt="osTicket: Post-Installation Config"/>
+<img src="https://static.wixstatic.com/media/2ebf04_09ea5aaa4fd144c7996262fbb0a404b0~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
 </p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_9fb7a351078f4627a6288eb7782b2bb6~mv2.png" height="50%" width="50%" alt="osTicket: Post-Installation Config"/>
+<img src="https://static.wixstatic.com/media/2ebf04_9fb7a351078f4627a6288eb7782b2bb6~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
 </p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_43c4003ac2c74c499da2c80d8fd901dd~mv2.png" height="50%" width="50%" alt="osTicket: Post-Installation Config"/>
+<img src="https://static.wixstatic.com/media/2ebf04_43c4003ac2c74c499da2c80d8fd901dd~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
 </p>
 <p>
 Step 18: Go to the Agent panel, then click on "Users," and add the users who will be creating support tickets.
@@ -237,10 +237,10 @@ Step 18: Go to the Agent panel, then click on "Users," and add the users who wil
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_7bd64b0f4d4c4ce0b190347c39690051~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img src="https://static.wixstatic.com/media/2ebf04_7bd64b0f4d4c4ce0b190347c39690051~mv2.png" height="50%" width="50%" alt="osTicket: Post-Installation Config"/>
 </p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_d5665ce0498d4af0b782c126cf712ae0~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img src="https://static.wixstatic.com/media/2ebf04_d5665ce0498d4af0b782c126cf712ae0~mv2.png" height="50%" width="50%" alt="osTicket: Post-Installation Config"/>
 </p>
 <p>
 Step 19: Fill out the text input fields and click "Add user" to create two users.
