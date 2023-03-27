@@ -321,9 +321,11 @@ Step 26: Click on "Add new help topic," name it "Personal Computer Issues," and 
 </p>
 <p>
 Step 27: Add three more help topics with the following names:
-<li>Password Reset</li>
-<li>Equipment Request</li>
-<li>Business Critical Outage</li>
+<ul>
+  <li>Password Reset</li>
+  <li>Equipment Request</li>
+  <li>Business Critical Outage</li>
+ </ul> 
 </p>
 <br />
 
