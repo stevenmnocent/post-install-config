@@ -25,11 +25,13 @@ This tutorial provides a comprehensive guide to the post-installation configurat
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Establish a senior administrator position with appropriate role-based access control privileges and permissions.
+- Implement a new department for system administrators.
+- Configure one team responsible for level II support issues.
+- Create three agents with distinct roles and permissions based on their job requirements.
+- Add two users who will serve as example customers by sending in support tickets.
+- Configure service-level agreements (SLAs) by establishing performance metrics and customer service targets.
+- Set up four help topics that enable customers to easily narrow down their support issues.
 
 <h2>Configuration Steps</h2>
 
