@@ -153,7 +153,7 @@ Step 10: Click on "Set Password," then uncheck the option "Send the agent a pass
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_5334c985c058497e9b9b83da16689691~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img src="https://static.wixstatic.com/media/2ebf04_5334c985c058497e9b9b83da16689691~mv2.png" height="50%" width="50%" alt="osTicket: Post-Installation Config"/>
 </p>
 <p>
 Step 11: Enter a password and click on "Set."
