@@ -10,6 +10,9 @@ This tutorial provides a comprehensive guide to the post-installation configurat
 
 - ### [YouTube: How To Configure osTicket, Post-Installation](https://youtu.be/HGywPhfKt4E)
 
+[![YouTube](https://static.wixstatic.com/media/2ebf04_647237f66c1e43e49a2fa70c5e47b30f~mv2.png)](https://youtu.be/HGywPhfKt4E)
+</p>
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
