@@ -8,7 +8,7 @@ This tutorial provides a comprehensive guide to the post-installation configurat
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://youtu.be/HGywPhfKt4E)
+- ### [YouTube: How To Configure osTicket, Post-installation](https://youtu.be/HGywPhfKt4E)
 
 <h2>Environments and Technologies Used</h2>
 
