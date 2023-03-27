@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial provides a comprehensive and detailed guide on the post-installation configuration procedures of the open-source help desk ticketing system osTicket. Through this tutorial, users can learn how to optimize their osTicket installation by configuring its various admin/agent features and settings, including roles, departments, ticket templates, and more.<br />
+This tutorial provides a comprehensive and detailed guide to the post-installation configuration procedures of the open-source help desk ticketing system, osTicket. Users can learn how to optimize their osTicket installation by configuring its various admin/agent settings, including roles, departments, ticket templates, and more.<br />
 
 
 <h2>Video Demonstration</h2>
