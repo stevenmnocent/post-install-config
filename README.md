@@ -331,7 +331,7 @@ Step 27: Add three more help topics with the following names:
 </p>
 <br />
 
-<p align="center">🌎<b><i>There is nothing permanent except change. ~ Heraclitus</b></i>🏛</p>
+<p align="center">🌎 <b><i>There is nothing permanent except change. ~ Heraclitus</b></i> 🏛</p>
 <br />
 <p align="right"> Next: <a href="https://github.com/stevenmnocent/ticket-lifecycle"
 >osTicket: Ticket Lifecycle Examples</a></p>
