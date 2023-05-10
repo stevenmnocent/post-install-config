@@ -34,7 +34,7 @@ This tutorial provides a comprehensive guide to the post-installation configurat
 - Set up four help topics that enable customers to easily narrow down their support issues.
 
 <h2>Configuration Steps</h2>
-<p align="left"> Part 1: <a href="https://github.com/stevenmnocent/osticket-prereqs">osTicket: Prerequisites and Installation</a></p>
+<p align="left"> Part 1: <a href="https://github.com/stevennocent/osticket-prereqs">osTicket: Prerequisites and Installation</a></p>
 <br />
 
 <p>
@@ -333,5 +333,5 @@ Step 27: Add three more help topics with the following names:
 
 <p align="center">🌎 <b><i>There is nothing permanent except change. ~ Heraclitus</b></i> 🏛</p>
 <br />
-<p align="right"> Next: <a href="https://github.com/stevenmnocent/ticket-lifecycle"
+<p align="right"> Next: <a href="https://github.com/stevennocent/ticket-lifecycle"
 >osTicket: Ticket Lifecycle Examples</a></p>
